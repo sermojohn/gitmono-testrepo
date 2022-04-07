@@ -1,2 +1,3 @@
 name=project-diff
 description=This project contains commits after last release.
+metadata=diff
